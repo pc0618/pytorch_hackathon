@@ -1,5 +1,5 @@
 # pytuna
-An intelligent preprocessing wizard. 
+An intelligent preprocessing wizard. The project's webpage can be found at: https://devpost.com/software/pytuna 
 
 ## Setup
 1. Download the model from [here](https://drive.google.com/file/d/1yVLUcZTTNkEPZ0X21VsZHvjrq_Hr0A4h/view?usp=sharing).
